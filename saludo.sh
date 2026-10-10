@@ -6,3 +6,4 @@
 echo "hola buenas noches, ejercicio jenkins"
 echo "soy programador de sistemas"
 echo "ejercicio jenkins"
+echo "probando trigger desde github jenkins"
