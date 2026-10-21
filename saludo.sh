@@ -9,3 +9,7 @@ echo "ejercicio jenkins"
 echo "probando trigger desde github jenkins"
 echo "probando trigger desde github jenkins 2"
 echo "probando trigger desde github jenkins 3"
+
+echo "Iniciando script de shell..."
+python3 saludo.py
+echo "Finalizado."
